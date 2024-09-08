@@ -37,8 +37,6 @@ Berdasarkan flow diatas. Pertama kali user akan melihat halaman login. User yang
 
 
 
-
-
 ### Login Page
 ![alt text](https://github.com/KyrieCettyara/web-development-architecture/blob/main/image/login.png)
 
@@ -49,8 +47,13 @@ Berdasarkan flow diatas. Pertama kali user akan melihat halaman login. User yang
 ### Upload Gambar
 ![alt text](https://github.com/KyrieCettyara/web-development-architecture/blob/main/image/upload.png)
 
+![alt text](https://github.com/KyrieCettyara/web-development-architecture/blob/main/image/upload_image.png)
+
+![alt text](https://github.com/KyrieCettyara/web-development-architecture/blob/main/image/upload_image2.png)
+
 Untuk menyimpan gambar digunakan minio yang disetup sebagai berikut
 ![alt text](https://github.com/KyrieCettyara/web-development-architecture/blob/main/image/minio.png)
+
 
 ### Leaderboard
 ![alt text](https://github.com/KyrieCettyara/web-development-architecture/blob/main/image/leaderboard.png)
